@@ -1,6 +1,1 @@
-<style>
-.hi{
-  color:"red";
-}
-</style>
-<h1 class="hi">Hi i'am Basar</h1>
+<h1 class="hi" style="color:'red'">Hi i'am Basar</h1>
